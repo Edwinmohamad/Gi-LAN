@@ -1,2 +1,0 @@
-# Gi-LAN
-Script Generator
